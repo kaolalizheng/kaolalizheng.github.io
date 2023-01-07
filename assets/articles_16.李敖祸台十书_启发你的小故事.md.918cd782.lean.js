@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as l,a as e}from"./app.cba5147d.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/16.李敖祸台十书/启发你的小故事.md"}'),n={name:"articles/16.李敖祸台十书/启发你的小故事.md"},o=e("",527),t=[o];function a(r,s,h,c,m,_){return l(),i("div",null,t)}const g=p(n,[["render",a]]);export{u as __pageData,g as default};

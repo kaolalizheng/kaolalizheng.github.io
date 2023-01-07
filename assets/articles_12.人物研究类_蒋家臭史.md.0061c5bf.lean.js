@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as l,a as e}from"./app.cba5147d.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/蒋家臭史.md"}'),a={name:"articles/12.人物研究类/蒋家臭史.md"},o=e("",523),t=[o];function n(r,s,_,c,d,h){return l(),i("div",null,t)}const M=p(a,[["render",n]]);export{f as __pageData,M as default};

@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as l,a as e}from"./app.cba5147d.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/14.台湾史政类/白色恐怖述奇.md"}'),o={name:"articles/14.台湾史政类/白色恐怖述奇.md"},a=e("",1078),r=[a];function t(n,s,_,d,c,T){return l(),i("div",null,r)}const m=p(o,[["render",t]]);export{C as __pageData,m as default};

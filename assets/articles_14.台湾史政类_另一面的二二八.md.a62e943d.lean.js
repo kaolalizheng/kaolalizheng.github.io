@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as l,a as e}from"./app.cba5147d.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/14.台湾史政类/另一面的二二八.md"}'),a={name:"articles/14.台湾史政类/另一面的二二八.md"},t=e("",726),r=[t];function o(_,n,s,d,c,C){return l(),i("div",null,r)}const f=p(a,[["render",o]]);export{h as __pageData,f as default};

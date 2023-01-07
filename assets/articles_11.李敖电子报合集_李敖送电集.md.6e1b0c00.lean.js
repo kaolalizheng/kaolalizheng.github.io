@@ -1,0 +1,1 @@
+import{_ as p,c as l,o as i,a as e}from"./app.cba5147d.js";const S=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/11.李敖电子报合集/李敖送电集.md"}'),t={name:"articles/11.李敖电子报合集/李敖送电集.md"},A=e("",1017),s=[A];function _(a,r,o,n,c,T){return i(),l("div",null,s)}const f=p(t,[["render",_]]);export{S as __pageData,f as default};

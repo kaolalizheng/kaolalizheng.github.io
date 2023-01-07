@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as i,a as l}from"./app.cba5147d.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/16.李敖祸台十书/君子爱人以色.md"}'),a={name:"articles/16.李敖祸台十书/君子爱人以色.md"},t=l("",805),o=[t];function n(s,r,h,c,u,d){return i(),e("div",null,o)}const _=p(a,[["render",n]]);export{f as __pageData,_ as default};

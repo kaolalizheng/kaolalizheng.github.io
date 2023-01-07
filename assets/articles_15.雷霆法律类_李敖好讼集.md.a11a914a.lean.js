@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as e,a as l}from"./app.cba5147d.js";const w=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/15.雷霆法律类/李敖好讼集.md"}'),a={name:"articles/15.雷霆法律类/李敖好讼集.md"},t=l("",995),n=[t];function o(r,s,c,m,h,d){return e(),i("div",null,n)}const _=p(a,[["render",o]]);export{w as __pageData,_ as default};

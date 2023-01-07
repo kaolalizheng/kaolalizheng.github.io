@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as e,a as t}from"./app.cba5147d.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/蒋介石研究续集.md"}'),l={name:"articles/12.人物研究类/蒋介石研究续集.md"},o=t("",945),a=[o];function n(s,r,h,_,c,d){return e(),i("div",null,a)}const u=p(l,[["render",n]]);export{f as __pageData,u as default};

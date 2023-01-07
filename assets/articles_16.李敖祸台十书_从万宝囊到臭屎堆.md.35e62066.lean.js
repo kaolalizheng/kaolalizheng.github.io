@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as l,a as e}from"./app.cba5147d.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/16.李敖祸台十书/从万宝囊到臭屎堆.md"}'),a={name:"articles/16.李敖祸台十书/从万宝囊到臭屎堆.md"},r=e("",648),t=[r];function n(o,s,_,c,d,m){return l(),i("div",null,t)}const f=p(a,[["render",n]]);export{h as __pageData,f as default};

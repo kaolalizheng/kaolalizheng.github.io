@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as e,a as l}from"./app.cba5147d.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/李敖论人物.md"}'),t={name:"articles/12.人物研究类/李敖论人物.md"},n=l("",692),a=[n];function o(r,s,c,d,h,_){return e(),i("div",null,a)}const f=p(t,[["render",o]]);export{m as __pageData,f as default};

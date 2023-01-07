@@ -1,0 +1,1 @@
+import{_ as p,c as t,o,a as e}from"./app.cba5147d.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/李登辉的假面具.md"}'),l={name:"articles/12.人物研究类/李登辉的假面具.md"},u=e("",500),i=[u];function q(n,a,s,r,h,d){return o(),t("div",null,i)}const f=p(l,[["render",q]]);export{c as __pageData,f as default};

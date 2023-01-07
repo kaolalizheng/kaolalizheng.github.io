@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as i,a as l}from"./app.cba5147d.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/郑南榕研究.md"}'),r={name:"articles/12.人物研究类/郑南榕研究.md"},t=l("",712),a=[t];function o(n,s,d,c,h,m){return i(),e("div",null,a)}const f=p(r,[["render",o]]);export{u as __pageData,f as default};

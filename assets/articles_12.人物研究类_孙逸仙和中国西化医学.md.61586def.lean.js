@@ -1,0 +1,1 @@
+import{_ as p,c as e,o,a}from"./app.cba5147d.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/孙逸仙和中国西化医学.md"}'),n={name:"articles/12.人物研究类/孙逸仙和中国西化医学.md"},i=a("",873),r=[i];function t(s,l,h,d,c,u){return o(),e("div",null,r)}const f=p(n,[["render",t]]);export{g as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as a,a as i}from"./app.cba5147d.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/胡适评传.md"}'),t={name:"articles/12.人物研究类/胡适评传.md"},o=i("",1849),n=[o];function r(s,h,l,d,m,c){return a(),e("div",null,n)}const f=p(t,[["render",r]]);export{u as __pageData,f as default};

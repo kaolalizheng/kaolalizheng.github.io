@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as e,a as l}from"./app.cba5147d.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/丑陋的中国人研究.md"}'),a={name:"articles/12.人物研究类/丑陋的中国人研究.md"},t=l("",1516),o=[t];function n(r,s,c,h,d,m){return e(),i("div",null,o)}const _=p(a,[["render",n]]);export{y as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as l,a as e}from"./app.cba5147d.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/13.国民党史政类/给外省人难看.md"}'),r={name:"articles/13.国民党史政类/给外省人难看.md"},t=e("",686),a=[t];function n(o,C,s,_,d,h){return l(),i("div",null,a)}const m=p(r,[["render",n]]);export{u as __pageData,m as default};

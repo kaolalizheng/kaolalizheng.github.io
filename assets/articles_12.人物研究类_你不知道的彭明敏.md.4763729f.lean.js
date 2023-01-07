@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as i,a as t}from"./app.cba5147d.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/你不知道的彭明敏.md"}'),a={name:"articles/12.人物研究类/你不知道的彭明敏.md"},r=t("",732),o=[r];function n(l,s,c,h,u,d){return i(),e("div",null,o)}const f=p(a,[["render",n]]);export{y as __pageData,f as default};

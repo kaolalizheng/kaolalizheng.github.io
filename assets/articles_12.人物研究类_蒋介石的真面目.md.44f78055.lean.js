@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as e,a as l}from"./app.cba5147d.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/12.人物研究类/蒋介石的真面目.md"}'),a={name:"articles/12.人物研究类/蒋介石的真面目.md"},o=l("",847),r=[o];function n(t,s,h,c,d,u){return e(),i("div",null,r)}const C=p(a,[["render",n]]);export{_ as __pageData,C as default};

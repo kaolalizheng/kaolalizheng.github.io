@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as a,a as l}from"./app.cba5147d.js";const w=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/17.百家论李敖合集/李敖研究fashion文集.md"}'),o={name:"articles/17.百家论李敖合集/李敖研究fashion文集.md"},e=l("",916),n=[e];function t(s,h,r,f,m,c){return a(),i("div",null,n)}const g=p(o,[["render",t]]);export{w as __pageData,g as default};
